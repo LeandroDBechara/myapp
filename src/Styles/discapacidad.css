@@ -1,0 +1,25 @@
+.hya{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+.hya div{
+    
+    margin-bottom:50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.aclaracion{
+    margin-top:35px;
+    width: 60%;
+}
+
+.requisitos{
+    margin-top:30px;
+    margin-left: 50px;
+}
+.acla{
+    font-weight:bold;
+    font-size:15px;
+    color:rgb(180, 4, 4);
+}

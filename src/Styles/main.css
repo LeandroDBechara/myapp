@@ -1,0 +1,59 @@
+.sitios{
+    display:flex;
+    justify-content:center;
+    flex-direction:row;
+    
+}
+.sitios div{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.sitio1 img{
+    display:flex;
+
+    height: 100px;
+    width: 300px;
+    padding: 30px;
+}
+
+.sitio2 img{
+    display:flex;
+
+    height: 100px;
+    width: 100px;
+    padding: 30px;
+}
+
+.telefonos{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-direction:row;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.telefonos p{
+    font-weight: bold;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+}
+h2{
+    text-align: center;
+    background-color: #00a7dd;
+    color:rgb(247, 243, 243);
+    letter-spacing: 2px;
+    font-size: larger;
+    padding: 5px;
+    
+}
+.imgdgt{
+    display: flex;
+    justify-content: center;
+    
+}
+.imgdgt img{
+    width: 75%;
+    height: 200px;
+}

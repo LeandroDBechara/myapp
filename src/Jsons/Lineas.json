@@ -1,0 +1,24 @@
+{
+  "lineas": [
+    {
+      "id": 0,
+      "linea": "linea 100 - Avellaneda",
+      "mapa": "https://appassets.mvtdev.com/map/188/l/6081/27522608/9009105.webp"
+    },
+    {
+      "id": 1,
+      "linea": "linea 100 - Barrio El Mirador - Villa Carmela - San Pablo",
+      "mapa": "https://appassets.mvtdev.com/map/188/l/6081/27522611/5121052.webp"
+    },
+    {
+      "id": 2,
+      "linea": "linea 100 - Esc. Agricola",
+      "mapa": "https://appassets.mvtdev.com/map/188/l/6081/27522607/5121015.webp"
+    },
+    {
+      "id": 3,
+      "linea": "linea 103 - El Colmenar",
+      "mapa": "https://appassets.mvtdev.com/map/188/l/6081/27522618/5121060.webp"
+    }
+  ]
+}

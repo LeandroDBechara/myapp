@@ -1,0 +1,12 @@
+.contenido{
+    margin: 50px;
+    margin-top: 0px
+}
+
+.zafra{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 50px;
+    margin-top: 30px;
+}
